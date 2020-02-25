@@ -717,7 +717,7 @@ a{
 }
 
 .conclusion{
-	font-color:var(--color-rev-text);
+	color:var(--color-rev-text);
 	font-family:'work sans';
 	font-size:1.8105rem;
 	margin-right:10vh;
